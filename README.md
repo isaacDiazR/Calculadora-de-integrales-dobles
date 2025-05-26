@@ -72,3 +72,15 @@ git clone https://github.com/isaacDiazR/Calculadora-de-integrales-dobles.git
 cd Calculadora-de-integrales-dobles
 ```
 3. Ejecuta el programa
+
+---
+
+## 📬 ¿Necesitas ayuda más personalizada?
+
+No dudes en escribirme si tienes preguntas, sugerencias o necesitas soporte técnico: isaacdiaz1621.contacto@gmail.com
+
+---
+
+## 🤝 Créditos
+
+Desarrollado con 💙 por Isaac Diaz, David Aceros, Carlos Mantilla.
