@@ -1,4 +1,4 @@
-# 📊 Calculadora de Volumen Bajo Superficie
+# 📊 Calculadora de integrales dobles
 
 Bienvenido a la **Calculadora de Volumen Bajo Superficie**, una aplicación educativa desarrollada con Python y `customtkinter`, que permite calcular el volumen encerrado entre una superficie definida por una función f(x, y) y el plano XY mediante integración doble.
 
